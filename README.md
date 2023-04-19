@@ -1,6 +1,6 @@
 <br />
 
-<h3 align="center">Test for Developer</h3>
+<h1 align="center"><strong>Test for Developer<strong/></h1>
 
 ## About:
 This repository was created for a vacancy intended for developers, the use of any language was allowed, so I decided to use Python to carry out all the exercises.
