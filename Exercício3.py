@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Unlicense
+
 from statistics import mean
 
 faturamento = [
