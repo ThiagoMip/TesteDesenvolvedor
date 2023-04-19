@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Unlicense
+
 INDICE = 13
 SOMA = 0
 K = 0
