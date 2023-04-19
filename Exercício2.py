@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Unlicense
+
 N1 = 0
 N2 = 1
 Soma = 0
