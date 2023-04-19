@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Unlicense
+
 SP = 67836.43
 RJ = 36678.66
 MG = 29229.88
